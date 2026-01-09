@@ -18,31 +18,31 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- Add your name---> </p>
-    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>College Name:</strong> <!--- Add your college name---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>Name:</strong> Neeraj Paswan </p>
+    <p><strong>Email ID:</strong> er.neerajpaswan@gmail.com </p>
+    <p><strong>College Name:</strong> Bansal Institute of Engineering & Technology </p>
+    <p><strong>Branch/Specialization :</strong> Computer Science And Engineering </p>
+    <p><strong>College ID:</strong> 2231722 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong>Data Structures & Algorithms in Java</p>
+    <p><strong>Instructor Name:</strong> Karthik R  </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> Six months</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Name:</strong>Karthik R </p>
+<p><strong>Trainer Email ID:</strong> karthikofficial2712@gmail.com </p>
+<p><strong>Trainer Designation:</strong> Software QA Engineer Jio Platforms Limited (JPL)</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -63,54 +63,38 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+New Learnings: 
+Expertise in responsive UI development (HTML, CSS, JavaScript, ReactJS).
+Proficiency in Spring Boot configuration and environment management.
+Understanding of scalable enterprise application architecture.
+Confidence in end-to-end web application development and deployment.
+Overall Experience: 
+End-to-end real-world development experience
+Improved teamwork and coordination
+Enhanced practical problem-solving
+Built professional and social responsibility
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> FoodAndHunger </p>
 
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
 
 <p><em>(You can add more projects as needed)</em></p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: FoodAndHunger </h3>
 <p>
   This project involved designing and developing a basic functional module using the core concepts taught in the course.
   It focused on understanding requirements, creating structured code, and implementing key features.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/sure-trust/NEERAJ-PASWAN-g3-dsa-in-java/blob/79502602f0b0c6516700d6a51d016b7955e6927e/Course%20report/SURE%20Trust%20project%20document.docx.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
-<!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
-<p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
@@ -120,39 +104,51 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 - [Wikipedia](https://wikipedia.com)
 <!--you can add refrences over here in same syntax as above -->
 ---
+• Official Java Documentation – Oracle
+• Spring Boot Official Documentation
+• ReactJS Official Documentation
+• MySQL Official Documentation
+• Git & GitHub Documentation
+• Data Structures and Algorithms – GeeksforGeeks
+• Stack Overflow – Developer Community Support
+• Wikipedia – Conceptual Reference
 
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+LST (Life Skills Training) – Own Experience
+
+Life Skills Training helped me develop self-discipline, time management, and goal-setting abilities. Through practical activities, I learned how to handle pressure situations calmly and make effective decisions. This training improved my self-confidence, problem-solving skills, and overall mindset, which has positively impacted both my personal and professional life.
+
+SST (Soft Skills Training) – Own Experience
+
+Soft Skills Training significantly improved my communication and interpersonal skills. I gained confidence in speaking clearly, working in a team, and presenting my ideas effectively. The sessions on body language, professional etiquette, and interview skills helped me become more confident and prepared for workplace interactions.
 
 ## **Community Services**
 
-<!-- add descreption in your own words -->
+I actively participated in community service activities such as donation drives and plantation programs. Through donation initiatives, I contributed to supporting underprivileged individuals and promoting social welfare. By participating in plantation activities, I helped promote environmental awareness and sustainability. These experiences enhanced my sense of social responsibility, teamwork, and commitment towards community and environmental well-being.
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
 
 ### **Activities Involved**
-<!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
-  
- <!-- add the location where you have panted -->
-- **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
-
-  <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
-
-<!-- you can write impacts according to your experience in your words-->
+Tree Plantation Drive – Participated in a tree plantation drive at Siddharthnagar, contributing to environmental sustainability and ecological improvement.
+- **Helping Elder Citizens** –
+  Donation Drive – Actively participated in donation activities in Siddharthnagar, providing essential support to underprivileged individuals and gaining a deeper     understanding of social responsibility and community service.
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
-- Actively participated in promoting a greener and cleaner surroundings.
-- Offered personal assistance to elder citizens, strengthening community bonds.
-- Improved skills in communication, coordination, and social responsibility.
+Contributed to community welfare by participating in donation drives in Siddharthnagar, supporting underprivileged individuals.
+
+Helped improve environmental sustainability through active participation in tree plantation initiatives.
+
+Supported elderly citizens with daily tasks, providing emotional assistance and enhancing their comfort and well-being.
+
+Developed a strong sense of social responsibility, empathy, and teamwork through hands-on community service.
+
+Gained practical experience in community engagement and learned the importance of giving back to society.
+
+Offered personal assistance to elderly citizens, helping strengthen community bonds and promote mutual care.
+
+Enhanced communication, coordination, and social responsibility skills through active community engagement.
 
 ### **Photos**
 
@@ -162,9 +158,10 @@ During my internship period, I participated in multiple community-oriented activ
 - These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
+<img src="https://github.com/user-attachments/assets/99520184-40f9-4fc2-99e8-b2ab94f6f22e"
+ alt="Community Service Photo 1" width="30%">
+<img src="https://github.com/user-attachments/assets/665cd360-bae8-4536-8233-251b08ffba1b" 
+alt="Community Service Photo 2" width="30%">
 </div>
 
 ---
@@ -183,7 +180,7 @@ The internship certificate serves as an official acknowledgment of the successfu
 
 ## **Acknowledgments**
 
-<!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
+I would like to express my sincere gratitude to Prof. Radhakumari Challa, Executive Director and Founder of SURE Trust, for providing this valuable internship opportunity and for creating a supportive learning ecosystem that emphasizes both technical excellence and social responsibility. I am deeply thankful to Mr. Karthik R, Software QA Engineer at Jio Platforms Limited (JPL), for his continuous guidance, mentorship, and technical insights throughout the course. His encouragement and feedback played a crucial role in strengthening my understanding of Data Structures & Algorithms and real-world application development. I also extend my thanks to the faculty and coordinators of Bansal Institute of Engineering and Technology, Lucknow, for their support and motivation. Lastly, I am grateful to my peers and teammates for their collaboration and shared learning, which made this journey enriching and impactful.
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
 
