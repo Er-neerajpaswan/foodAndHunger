@@ -158,9 +158,9 @@ Enhanced communication, coordination, and social responsibility skills through a
 - These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/99520184-40f9-4fc2-99e8-b2ab94f6f22e"
+<img src="https://github.com/Er-neerajpaswan/foodAndHunger/blob/main/assets/Donationf.jpeg"
  alt="Community Service Photo 1" width="30%">
-<img src="https://github.com/user-attachments/assets/665cd360-bae8-4536-8233-251b08ffba1b" 
+<img src="https://github.com/Er-neerajpaswan/foodAndHunger/blob/main/assets/plantationp.jpeg" 
 alt="Community Service Photo 2" width="30%">
 </div>
 
