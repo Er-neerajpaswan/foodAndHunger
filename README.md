@@ -80,9 +80,6 @@ Built professional and social responsibility
 
 <p><strong><a href="#project1">Project 1:</a></strong> FoodAndHunger </p>
 
-
-<p><em>(You can add more projects as needed)</em></p>
-
 </div>
 
 <!-- Project 1 -->
