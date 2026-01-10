@@ -92,7 +92,7 @@ Built professional and social responsibility
   It focused on understanding requirements, creating structured code, and implementing key features.
 </p>
 <p>
-  <a href="https://github.com/sure-trust/NEERAJ-PASWAN-g3-dsa-in-java/blob/79502602f0b0c6516700d6a51d016b7955e6927e/Course%20report/SURE%20Trust%20project%20document.docx.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/Er-neerajpaswan/foodAndHunger/blob/main/SURE%20Trust%20project%20document.docx.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
