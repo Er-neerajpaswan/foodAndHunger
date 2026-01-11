@@ -21,7 +21,7 @@
     <p><strong>Name:</strong> Neeraj Paswan </p>
     <p><strong>Email ID:</strong> er.neerajpaswan@gmail.com </p>
     <p><strong>College Name:</strong> Bansal Institute of Engineering & Technology </p>
-    <p><strong>Branch/Specialization :</strong> Computer Science And Engineering </p>
+    <p><strong>Branch/Specialization :</strong> Computer Science & Engineering </p>
     <p><strong>College ID:</strong> 2231722 </p>
 </div>
 
@@ -85,8 +85,9 @@ Built professional and social responsibility
 <!-- Project 1 -->
 <h3 id="project1">Project 1: FoodAndHunger </h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+ The Food and Hunger Management System is a full-stack web application developed to optimize food surplus utilization and address food insecurity among underserved communities, including orphanages and NGOs. The system implements a role-based digital workflow to connect food donors (restaurants, households, hotels, and supermarkets) with authorized receivers through a centralized platform.
+
+Built using HTML, CSS, JavaScript, ReactJS, Spring Boot, and Java, the application follows a client–server architecture, enabling seamless frontend–backend integration, secure data handling, and real-time coordination for food donation and distribution processes
 </p>
 <p>
   <a href="https://github.com/Er-neerajpaswan/foodAndHunger/blob/main/SURE%20Trust%20project%20document.docx.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
